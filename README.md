@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gags 
+# VeraDemo - Blab-a-Gags Demo for test
 
 ### :information_source: Notice
 
