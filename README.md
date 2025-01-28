@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gags 11111
+# VeraDemo - Blab-a-Gags SCA
 
 ### :information_source: Notice
 
