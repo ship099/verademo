@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gags SCA
+# VeraDemo - Blab-a-Gags SCA Pipeline
 
 ### :information_source: Notice
 
